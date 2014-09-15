@@ -1,4 +1,4 @@
-lightattack
-===========
+smstext-demo-code
+=================
 
-my first repository - for led traffic light project
+This is the code which Paul wants me to write for his upcoming add on board
